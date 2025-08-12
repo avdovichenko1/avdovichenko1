@@ -21,5 +21,4 @@
 - 💡 Детекция агрессивного поведения животных в видео
 
 ## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-@BlueBerry2318-blue)](https://t.me/BlueBerry2318)  
-[![Email](https://img.shields.io/badge/Email-alina2002vdovi@gmail.com)](mailto:alina2002vdovi@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@BlueBerry2318-blue)](https://t.me/BlueBerry2318)
