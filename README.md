@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💜 Привет! Я Алина
 
-<!--
-**avdovichenko1/avdovichenko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Scientist**  
+Специализация — computer vision (обработка изображений, видеоаналитика), а также классическое машинное обучение
 
-Here are some ideas to get you started:
+## 👩‍💻 Обо мне
+- 🎓 Бакалавр по направлению *«Мехатроника и робототехника. Искусственный интеллект»* — Новосибирский государственный университет (NSU)
+- 💼 Опыт в области видеоаналитики (обработка данных с RTSP-потока)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технологии
+
+**Deep Learning:** PyTorch, TorchVision, TensorFlow  
+**Computer Vision:** OpenCV, YOLO, Ultralytics, Segment Anything, CLIP, CNN  
+**Оптимизация и Edge-инференс:** ONNX, GPU  
+**MLOps & Dev:** Git, Docker, FastAPI, Linux  
+**Data Science:** scikit-learn, matplotlib, numpy, pandas
+
+## 🚀 Мои проекты
+- 🧠 AI для подбора одежды по типу фигуры и цветотипу (ResNet, EfficientNet, DeepLab)
+- 🐾 Нейросетевая система для анализа поведения кошек и собак (YOLO, CLIP)
+- 💡 Детекция агрессивного поведения животных в видео
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-@BlueBerry2318-blue)](https://t.me/BlueBerry2318)  
+[![Email](https://img.shields.io/badge/Email-alina@example.com-red)](mailto:alina2002vdovi@gmail.com)
