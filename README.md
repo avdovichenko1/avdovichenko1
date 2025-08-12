@@ -22,4 +22,4 @@
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@BlueBerry2318-blue)](https://t.me/BlueBerry2318)  
-[![Email](https://img.shields.io/badge/Email-alina@example.com-red)](mailto:alina2002vdovi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alina2002vdovi@gmail.com)](mailto:alina2002vdovi@gmail.com)
